@@ -79,6 +79,28 @@
    39 - i - Find out how many characters a text file has.
 
    40 - b - Create a file named script.sh and make it executable.
+  
+   41 - b - Create an archive file of a directory. <rails/tools>
 
+   42 - i - Create an archive file of only files in <rails> directory.
 
+   43 - b - Create an archive file of <rails/guides> and <rails/README.md>
+
+   44 - i - List the files in an existing archive file.
+
+   45 - b - Extract files from an existing archive file. 
+
+   46 - i - Extract just the first item from an existing archive file.
+
+   47 - i - Append a file to an existing archive file.
+
+   48 - i - Update a file in an existing archive file.Extract.Update.Append.
+
+   49 - b - Extract the archive to your desktop.
+
+   50 - b - Create a compressed archive file of <rails/tools>.
+
+   51 - b - Extract a compressed archive file. 
+
+   52 - i - Create a compressed archive file of all txt files in your home directory.
 
