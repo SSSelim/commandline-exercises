@@ -1,82 +1,84 @@
-    1 - Which directory you are in now?
+   ID -LVL- TASK EXPLANATION - <exercisefile|directory>                          
 
-    2 - Go up one directory.
+    1 - b - Which directory you are in now?
 
-    3 - Go to your home directory.
+    2 - b - Go up one directory.
 
-    4 - List files and directories in current directory.
+    3 - b - Go to your home directory.
 
-    5 - List everything in the current directory.
+    4 - b - List files and directories in current directory.
 
-    6 - List files and dirs with their details.
+    5 - b - List everything in the current directory.
 
-    7 - List files and dirs with their size in K,M,G etc.
+    6 - b - List files and dirs with their details.
 
-    8 - List files and dirs by the last modified time.
+    7 - i - List files and dirs with their size in K,M,G etc.
 
-    9 - List files and dirs in a way that the last modified items are at the bottom.
+    8 - i - List files and dirs by the last modified time.
 
-   10 - Go to previous directory.
+    9 - i - List files and dirs in a way that the last modified items are at the bottom.
 
-   11 - List only files with txt extension.
+   10 - i - Go to previous directory.
 
-   12 - List files and dirs by their size.
+   11 - b - List only files with txt extension.
 
-   13 - List files without symbolic links.
+   12 - i - List files and dirs by their size.
 
-   14 - Create a file named peace.txt
+   13 - X - List files without symbolic links.
 
-   15 - Create a hard link for one of your files.
+   14 - b - Create a file named peace.txt
 
-   16 - Create a soft link on your desktop for your documents directory.
+   15 - i - Create a hard link for one of your files.
+
+   16 - i - Create a soft link on your desktop for your documents directory.
     
-   17 - Create a directory named peace on your desktop
+   17 - b - Create a directory named peace on your desktop
 
-   18 - Create following hierarcy : ~/xreposx/cli-exercises
+   18 - i - Create following hierarcy : ~/xreposx/cli- L -exercises
 
-   19 - Find out if you have Ruby on your system and where it is.
+   19 - i - Find out if you have Ruby on your system and where it is.
 
-   20 - Create a file named happy.sh, then remove it.
+   20 - b - Create a file named happy.sh, then remove it.
 
-   21 - Create following path : "~/Desktop/temp/anothertemp", then remove it.
+   21 - b - Create following path : "~/Desktop/temp/anothertemp", then remove it.
 
-   22 - Create a share.txt file, then remove it with conformation.
+   22 - b - Create a share.txt file, then remove it with conformation.
 
-   23 - Check the top lines of a file.
+   23 - b - Check the top lines of a file.
 
-   24 - Check the first 20 lines of a file.
+   24 - b - Check the first 20 lines of a file.
 
-   25 - Check the first 63 characters of a file.
+   25 - i - Check the first 63 characters of a file.
 
-   26 - Check what kind of files there are in your current directory.
+   26 - i - Check what kind of files there are in your current directory.
    
-   27 - Check the last lines of a file.
+   27 - b - Check the last lines of a file.
 
-   28 - Check the last 5 files of a file.
+   28 - b - Check the last 5 files of a file.
 
-   29 - Check the last 13 characters of a file.
+   29 - i - Check the last 13 characters of a file.
 
-   30 - Find out type of the following commands. cd, sort, tail
+   30 - i - Find out type of the following commands. cd, sort, tail
 
-   31 - Check out the whole content of a file, without leaving the prompt.
+   31 - b - Check out the whole content of a file, without leaving the prompt.
 
-   32 - Check out the whole content of a file with line numbers, without leaving the prompt.
+   32 - i - Check out the whole content of a file with line numbers, without leaving the prompt.
 
-   33 - Find out which kernel you are using now.
+   33 - i - Find out which kernel you are using now.
 
-   34 - Find out which kernel release you are using now.
+   34 - i - Find out which kernel release you are using now.
 
-   35 - Find out which operating system you are using now.
+   35 - i - Find out which operating system you are using now.
 
-   36 - Read the help page for cd command. Yes, there is one.
+   36 - i - Read the help page for cd command. Yes, there is one.
 
-   37 - Find out how many lines your ~/.bashrc file has.
+   37 - i - Find out how many lines your ~/.bashrc file has.
 
-   38 - Find out how many words a text file has.
+   38 - i - Find out how many words a text file has.
 
-   39 - Find out how many characters a text file has.
+   39 - i - Find out how many characters a text file has.
 
-   40 - Create a file named script.sh and make it executable.
+   40 - b - Create a file named script.sh and make it executable.
 
 
 
