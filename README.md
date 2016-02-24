@@ -21,15 +21,15 @@ This idea is taken from [these online book](http://conqueringthecommandline.com/
 
 ## TODO 
 
-- Create an answers file as well.
+- [ ] Create an answers file as well.
 
-- Add more tasks. 
+- [ ] Add more tasks. 
 
-- Add more complex tasks. 
+- [ ] Add more complex tasks. 
 
-- Create some files or dirs to complete the tasks on.
+- [ ] Create some files or dirs to complete the tasks on.
 
-- Write a script to pick a task randomly and show the answers when requested.
+- [ ] Write a script to pick a task randomly and show the answers when requested.
 
-- ~Tag tasks with their difficulty. Beginner, intermediate, advance.~ or in another way.
+- [x]Tag tasks with their difficulty. Beginner, intermediate, advance. or in another way.
 
