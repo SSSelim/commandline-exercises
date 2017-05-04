@@ -31,5 +31,7 @@ This idea is taken from [these online book](http://conqueringthecommandline.com/
 
 - [ ] Write a script to pick a task randomly and show the answers when requested.
 
+- [ ] Write some basic scripts to convert exercises into csv,xml,yaml
+
 - [x] Tag tasks with their difficulty. Beginner, intermediate, advance. or in another way.
 

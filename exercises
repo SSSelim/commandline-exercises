@@ -103,4 +103,9 @@
    51 - b - Extract a compressed archive file. 
 
    52 - i - Create a compressed archive file of all txt files in your home directory.
+   5
+   53 - i - Remove the empty lines form the file. !!TODO:Create a file for this
 
+54 - x - somethingsomething
+
+55 - x - Remove empty line from a file
